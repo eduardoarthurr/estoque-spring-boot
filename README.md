@@ -95,5 +95,3 @@ Este projeto foi desenvolvido apenas para fins **educacionais e de prática**.
 Sinta-se à vontade para clonar, estudar e modificar conforme desejar.
 
 ---
-
-Quer que eu adicione uma seção de **exemplos de requisições (com JSON)** no README (para mostrar o corpo esperado em POST e PUT)? Isso deixaria o arquivo mais completo e didático.
