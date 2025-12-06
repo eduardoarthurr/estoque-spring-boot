@@ -4,7 +4,7 @@
 # 🛒 Sistema de Gerenciamento de Estoque - Spring Boot 🍃
 
 Este projeto é uma aplicação **backend** desenvolvida com **Spring Boot**, criada para treinar e praticar o desenvolvimento de APIs RESTful.
-O objetivo principal é construir um **sistema de gerenciamento de estoque** que possa ser utilizado por diversas lojas, permitindo o controle completo dos produtos através das operações básicas de CRUD.
+O objetivo principal é construir um sistema que permite o controle dos produtos através das operações básicas de CRUD.
 
 ---
 
